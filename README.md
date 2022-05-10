@@ -1,4 +1,4 @@
-# testing
+# JEST
 
 ## Setup do Projeto
 ```
@@ -24,3 +24,9 @@ Iniciando a api fake de leilões;
 json-server --watch db.json
 ```
 
+Rodando o teste 
+
+```
+npm run test:unit
+
+```
